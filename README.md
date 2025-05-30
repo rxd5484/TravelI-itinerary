@@ -63,10 +63,11 @@ Terminal-based UI
 <img width="898" alt="Screenshot 2025-05-30 at 7 01 15 PM" src="https://github.com/user-attachments/assets/346312e4-8e2f-405f-874f-1d383647e807" />
 
 
+
 <img width="933" alt="Screenshot 2025-05-30 at 7 01 45 PM" src="https://github.com/user-attachments/assets/8cbce538-224c-4a5e-b8b7-f725e3eb6ba0" />
 
 
-<img width="933" alt="Screenshot 2025-05-30 at 7 01 45 PM" src="https://github.com/user-attachments/assets/af391f36-cb1c-40d3-b7c0-2b2e03450505" />
+
 
 
 This AI-powered travel assistant uses a local Hugging Face model to generate personalized travel itineraries without requiring an OpenAI API key.
